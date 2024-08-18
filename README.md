@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abikjose" alt="abikjose" /></a> </p>
 
-- 🌱 I’m currently learning **Openshift**
+- 🌱 I’m currently learning **LLMs**
 
 - 👯 I’m looking to collaborate on **Large Scale, Distributed systems**
 
